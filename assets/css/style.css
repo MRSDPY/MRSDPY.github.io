@@ -2296,3 +2296,13 @@ input[type=radio] {
     color: white;
     background-color: #E50914;
 }
+
+::-moz-selection{
+    color: white;
+    background-color: #E50914;
+}
+
+::-webkit-selection{
+    color: white;
+    background-color: #E50914;
+}
