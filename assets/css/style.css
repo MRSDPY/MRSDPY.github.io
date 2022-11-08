@@ -1,32 +1,3 @@
-/*
-* Template Name: Gamix - eSports & Gaming HTML5 Template
-* Author: EpikTheme
-* Author URL: https://themeforest.net/user/epik-theme
-* Website: https://epiktheme.com/
-* Version: 1.0
-*/
-
-/* =============================================================================
-
-[Table of contents]
-
-0.0 Common CSS START 
-1.0 HEADER AREA START 
-2.0 BANNER AREA START
-3.0 GAMES AREA START
-4.0 ABOUT AREA START
-5.0 COUNTER AREA START
-6.0 MATCH AREA START
-7.0 WATCH AREA START
-8.0 BRAND AREA START
-9.0 PLAYER AREA START
-10.0 PRODUCT AREA START 
-11.0 JOIN AREA START 
-12.0 BLOG AREA START 
-13.0 SUBSCRIBE AREA START
-14.0 FOOTER AREA START
-15.0 COPY_RIGHT AREA START
- 
 /*===========================
 0.0 *** Common CSS START ***
 =============================*/
@@ -2320,3 +2291,8 @@ input[type=radio] {
 #mc_embed_signup #mc-embedded-subscribe-form input.mce_inline_error {border:2px solid #e85c41;}
 
 /* End of email sub form */
+
+::selection{
+    color: white;
+    background-color: #E50914;
+}
